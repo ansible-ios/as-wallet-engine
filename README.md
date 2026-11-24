@@ -1,3 +1,12 @@
+# as-wallet-engine
+
+Ansible Messenger — библиотека кошелька.
+
+> [!NOTE]
+> **Происхождение кода.** Форк [i582/wallet-engine](https://github.com/i582/wallet-engine), который сопровождает проект Ansible Messenger. Сведения об авторах и лицензиях приведены в исходной документации.
+
+## Документация исходного проекта
+
 # Wallet Engine
 
 Wallet Engine is a Rust library for TON wallet applications. It gives Swift,
